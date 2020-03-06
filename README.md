@@ -1,5 +1,4 @@
-# Spinnnig UP Open AI 
-
--  Research algo Implementation.
+# Deep RL 
+- Research algo Implementation.
 - DQN 
 - Agent,ENV,Model, TRAINING 
