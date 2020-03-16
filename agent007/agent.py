@@ -1,4 +1,4 @@
-#oundtrack /usr/bin/env python
+#/usr/bin/env python
 # -*- coding: utf-8 -*-
 # vim:fenc=utf-8
 #
@@ -11,7 +11,6 @@
                         
 """
 
-from .model import DQN
 
 class Agent(object):
     def __init__(self,gamma,epsilon,alpha,maxMemSize,episodeEnd=0.05,
